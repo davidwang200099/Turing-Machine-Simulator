@@ -7,3 +7,5 @@ Then it uses the transition table to process the input and finally either accept
 Exception handling adopts a simplified method of exit(-1).
 
 If you are interested, welcome to modify it to be a more powerful one!
+
+PS:As for the pattern of the machine code, I adopted the one in the PDF file.
